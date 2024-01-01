@@ -1,4 +1,6 @@
-# flappybird
+# Flappybird
+# Preview Of App
+![Flappy Bird](https://github.com/EliteMandy/Flappy-Bird/assets/99544156/75fa33dc-43e6-48c1-87a5-c750d0d2b813)
 
 A new Flutter project.
 
